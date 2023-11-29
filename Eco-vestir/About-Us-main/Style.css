@@ -36,7 +36,7 @@ body{
     text-align: justify;
     margin-bottom: 40px;
 }
-.skills button{
+a{
     font-size: 22px;
     text-align: center;
     letter-spacing: 2px;
@@ -48,7 +48,7 @@ body{
     color: white;
     cursor: pointer;
 }
-.skills button:hover{
+a:hover{
     transition: 1s;
     background-color: #ecf5f5;
     color: #00999c;
